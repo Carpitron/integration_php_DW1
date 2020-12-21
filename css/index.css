@@ -1,0 +1,13 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.sondTermine {
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.sondEnCours {
+    margin-right: 25%;
+    margin-top: 100px;
+}

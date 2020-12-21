@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #42495b;
+}
+
+button {
+    border-radius: 25px;
+    border: none;
+    background: linear-gradient(to left, #6156f9 25%, #1a129f 75%);
+    color: white;
+    padding: 3px;
+}
+
+p {
+    background-color: #7e76f9;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px 0 rgba(109, 103, 187, 0.349);
+    color: #ffffff;
+    border: none;
+}
